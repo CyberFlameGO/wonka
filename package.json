@@ -85,7 +85,7 @@
     "coveralls": "^3.1.0",
     "flow-bin": "^0.128.0",
     "flowgen": "^1.11.0",
-    "gatsby": "^2.23.17",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-netlify": "^2.3.10",
     "gatsby-theme-docs-system": "^0.2.2",
     "gentype": "^3.26.0",
